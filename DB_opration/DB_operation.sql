@@ -69,9 +69,9 @@ INSERT INTO `article` VALUES (35, '2017广西大学ACM竞赛协会招新了！',
 INSERT INTO `article` VALUES (36, '2017广西大学程序设计竞赛协会招新武林贴', '2018-10-13', '公告', 'view_id=12.html');
 INSERT INTO `article` VALUES (37, '计算机协会2018第一次集体培训！', '2018-10-12', '活动', 'view_id=11.html');
 INSERT INTO `article` VALUES (38, '10月13日对技术指导员的培训', '2018-10-11', '通知', 'view_id=9.html');
-INSERT INTO `article` VALUES (39, '“工程师走进校园”系列活动之东信工程师交流分享会', '2018-10-10', '活动', 'view_id=8.htnl');
-INSERT INTO `article` VALUES (40, '2017ACM-ICPC中国广西邀请赛圆满举办', '2017-08-29', '新闻', 'view_id=7.htnl');
-INSERT INTO `article` VALUES (41, '5·9网络安全技术沙龙——与“大佬”的见面座谈会', '2017-05-10', '活动', 'view_id=6.htnl');
+INSERT INTO `article` VALUES (39, '“工程师走进校园”系列活动之东信工程师交流分享会', '2018-10-10', '活动', 'view_id=8.html');
+INSERT INTO `article` VALUES (40, '2017ACM-ICPC中国广西邀请赛圆满举办', '2017-08-29', '新闻', 'view_id=7.html');
+INSERT INTO `article` VALUES (41, '5·9网络安全技术沙龙——与“大佬”的见面座谈会', '2017-05-10', '活动', 'view_id=6.html');
 INSERT INTO `article` VALUES (42, '新闻', NULL, NULL, 'site/news.html');
 INSERT INTO `article` VALUES (43, '通知', NULL, NULL, 'site/inform.html');
 INSERT INTO `article` VALUES (44, '公告', NULL, NULL, 'site/public.html');
